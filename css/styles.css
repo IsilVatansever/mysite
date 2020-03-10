@@ -11,7 +11,7 @@ h1{
   font-family: 'Sacramento', cursive;
   font-size: 5.625rem;
   color: #66BFBF;
-  
+
 }
 
 h2{
@@ -39,10 +39,10 @@ a{
 }
 .middle-container{
   padding: 30px;
-  background-color: #E4F9F5;
+
 }
 .bottom-container{
-  background-color: #E4F9F5;
+  
 }
 .bottom-cloud{
   position: absolute;
